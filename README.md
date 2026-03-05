@@ -1,6 +1,6 @@
 # Qwen 3.5 (4B) Uncensored - Colab & Ollama Deployment
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/14q8Nr3IElLgCloYUa0-8DstWFrJAOzYt/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14q8Nr3IElLgCloYUa0-8DstWFrJAOzYt)
 
 A streamlined Jupyter Notebook designed to effortlessly deploy and run the **Qwen 3.5 4B Uncensored** model on Google Colab. This project leverages the free T4 GPU provided by Colab, uses **Ollama** for highly efficient local model serving, and provides a sleek, shareable web interface using **Gradio**.
 
